@@ -18,3 +18,8 @@
     height: 100vh;
     width: 50vw;
 }
+
+.description {
+    padding: 50px;
+    font-size: 24px;
+}
