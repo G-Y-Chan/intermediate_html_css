@@ -62,3 +62,7 @@ label {
 .login {
     padding-left: 50px;
 }
+
+input:invalid {
+    border-color: red;
+}
