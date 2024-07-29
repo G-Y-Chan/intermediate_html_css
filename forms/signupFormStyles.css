@@ -42,6 +42,13 @@ label {
     gap: 36px;
 }
 
+.createAccount {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 .createAccountButton {
     padding-top: 5px;
     padding-bottom: 5px;
