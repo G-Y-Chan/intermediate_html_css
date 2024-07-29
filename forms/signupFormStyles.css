@@ -39,4 +39,5 @@ label {
 .inputRow {
     display: flex;
     flex-direction: row;
+    gap: 36px;
 }
