@@ -36,7 +36,7 @@ label {
     font-size: small;
 }
 
-.inputContainer {
+.inputRow {
     display: flex;
     flex-direction: row;
 }
