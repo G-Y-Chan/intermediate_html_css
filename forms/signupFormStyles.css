@@ -35,3 +35,8 @@
 label {
     font-size: small;
 }
+
+.inputContainer {
+    display: flex;
+    flex-direction: row;
+}
