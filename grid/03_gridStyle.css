@@ -30,6 +30,12 @@
     list-style: none;
 }
 
+.nav ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+}
+
 .menu ul,
 .menu li {
     font-size: 16px;
