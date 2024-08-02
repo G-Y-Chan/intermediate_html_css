@@ -28,6 +28,10 @@ ul {
     list-style: none;
 }
 
+li {
+    float: left;
+}
+
 .menu ul,
 .menu li {
     font-size: 16px;
