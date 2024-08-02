@@ -24,12 +24,10 @@
     grid-template-columns: 1fr 4fr;
 }
 
-ul {
+.menu ul {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     list-style: none;
-}
-
-li {
-    float: left;
 }
 
 .menu ul,
