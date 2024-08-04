@@ -78,6 +78,7 @@
 
 .article {
     background-color: #bccbde;
+    display: grid;
 }
 
 .article p {
