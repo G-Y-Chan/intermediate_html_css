@@ -66,6 +66,11 @@
     font-weight: normal;
 }
 
+.sidebar div {
+    display: grid;
+    align-items: center;
+}
+
 .nav {
     background-color: #C50208;
 }
