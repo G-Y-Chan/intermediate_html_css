@@ -48,7 +48,6 @@
     display: grid;
     grid-template-rows: repeat(4, 1fr);
     gap: 50px;
-    align-items: stretch;
 }
 
 .sidebar .photo {
