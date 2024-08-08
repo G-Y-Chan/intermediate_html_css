@@ -9,4 +9,5 @@
 .sidebar {
     grid-column: 1 / 2;
     grid-row: 1 / 6;
+    background: #2683de;
 }
