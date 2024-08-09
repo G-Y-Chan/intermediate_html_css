@@ -28,4 +28,5 @@
 .currentTab > span {
     color: #ffffff;
     align-self: center;
+    font-size: 32px;
 }
