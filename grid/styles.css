@@ -12,6 +12,10 @@
     background: #2683de;
 }
 
+.currentTab {
+    grid: display;
+}
+
 .currentTab > img {
     height: 50px;
     width: 50px;
