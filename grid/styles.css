@@ -21,6 +21,6 @@
     width: 50px;
 }
 
-.currentTab > p {
+.currentTab > span {
     color: #ffffff;
 }
