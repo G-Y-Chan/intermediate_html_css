@@ -20,8 +20,10 @@
 .currentTab > img {
     height: 50px;
     width: 50px;
+    align-self: center;
 }
 
 .currentTab > span {
     color: #ffffff;
+    align-self: center;
 }
