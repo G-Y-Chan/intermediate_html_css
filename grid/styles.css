@@ -16,3 +16,7 @@
     height: 50px;
     width: 50px;
 }
+
+.currentTab > p {
+    color: #ffffff;
+}
