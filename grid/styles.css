@@ -14,6 +14,7 @@
 
 .currentTab {
     display: grid;
+    grid-auto-flow: column;
 }
 
 .currentTab > img {
