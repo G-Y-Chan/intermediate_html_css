@@ -13,7 +13,7 @@
 }
 
 .currentTab {
-    grid: display;
+    display: grid;
 }
 
 .currentTab > img {
