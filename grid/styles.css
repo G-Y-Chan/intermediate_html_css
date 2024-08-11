@@ -35,3 +35,7 @@
     height: 36px;
     width: 36px;
 }
+
+.tab > span {
+    color: #ffffff;
+}
