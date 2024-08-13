@@ -12,6 +12,13 @@
     background: #2683de;
 }
 
+.mainTabs {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .currentTab {
     display: grid;
     grid-template-columns: 50px auto;
