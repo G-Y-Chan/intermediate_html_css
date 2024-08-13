@@ -34,7 +34,6 @@
 .tab {
     display: grid;
     grid-template-columns: 50px auto;
-    padding: 20px;
     gap: 20px;
 }
 
