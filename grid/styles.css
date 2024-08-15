@@ -21,6 +21,11 @@
     grid-template-rows: 1fr 1fr;
 }
 
+.projects {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+}
+
 .mainTabs {
     padding-left: 20px;
     padding-right: 20px;
