@@ -39,6 +39,8 @@
     width: minmax(0, 240px);
     background-color: #ffffff;
     border-radius: 12px;
+    display: grid;
+    grid-template-columns: 12px auto;
 }
 
 .mainTabs {
