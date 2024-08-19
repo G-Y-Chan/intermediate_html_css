@@ -53,6 +53,10 @@
     padding: 20px;
 }
 
+.cardTitle {
+    font-weight: bold;
+}
+
 .mainTabs {
     padding-left: 20px;
     padding-right: 20px;
