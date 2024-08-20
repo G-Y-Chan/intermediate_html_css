@@ -65,6 +65,8 @@
 
 .cardButtonContainer {
     display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: 1fr;
 }
 
 .cardButton {
