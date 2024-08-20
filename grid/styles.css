@@ -63,6 +63,10 @@
     color: gray;
 }
 
+.cardButtonContainer {
+    display: grid;
+}
+
 .cardButton {
     height: 24px;
     width: 24px;
