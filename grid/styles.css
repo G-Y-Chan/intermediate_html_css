@@ -68,6 +68,7 @@
     grid-auto-flow: column;
     grid-template-rows: 1fr;
     justify-content: end;
+    gap: 24px;
 }
 
 .cardButton {
